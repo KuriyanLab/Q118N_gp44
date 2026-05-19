@@ -17,4 +17,4 @@ After loading the data, the script performs several quality-control filtering st
 
       
 3. ".fa" files contains ProteinMPNN generated output for different design conditions.
-4. Only configurationa output from Frustration analysis is present. We have not used mutational frustration in our analysis
+4. Frustration analysis files are present. We have not used mutational frustration in our analysis. 
