@@ -30,7 +30,7 @@ COLOR_COLUMN_INDEX = 8
 NUM_BINS = 50
 X_AXIS_MIN = -3
 X_AXIS_MAX = 3
-MAX_ROW_STD = 0.6
+MAX_ROW_STD = 0.8
 
 # ==========================================
 # 2. MAIN PROCESSING FUNCTION
