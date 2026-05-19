@@ -17,4 +17,5 @@ After loading the data, the script performs several quality-control filtering st
 
       
 3. ".fa" files contains ProteinMPNN generated output for different design conditions.
-4. Frustration analysis files are present. We have not used mutational frustration in our analysis. 
+4. Frustration analysis files are present. We have not used mutational frustration in our analysis.
+5. Direct MiSeq output is present at https://dataview.ncbi.nlm.nih.gov/object/PRJNA1467720?reviewer=avmjml92m09m2gckenspnsqsbb
